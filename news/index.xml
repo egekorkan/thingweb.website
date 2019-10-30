@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on thingweb</title>
+    <link>http://thingweb.io/news.html</link>
+    <description>Recent content in News on thingweb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jul 2019 09:35:33 +0200</lastBuildDate>
+    
+	<atom:link href="http://thingweb.io/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TPAC 2019 Fukuoka, Japan (16–20 September 2019)</title>
+      <link>http://thingweb.io/news/2019-09-tpac-2019.html</link>
+      <pubDate>Fri, 05 Jul 2019 09:35:33 +0200</pubDate>
+      
+      <guid>http://thingweb.io/news/2019-09-tpac-2019.html</guid>
+      <description>TPAC 2019 Fukuoka, Japan 16–20 September 2019 For more information, please consult the following website: https://www.w3.org/2019/09/TPAC/</description>
+    </item>
+    
+    <item>
+      <title>Second W3C Workshop on the Web of Things (3-5 June 2019)</title>
+      <link>http://thingweb.io/news/2019-05-second-w3c-workshop-on-wot.html</link>
+      <pubDate>Mon, 04 Feb 2019 09:35:33 +0200</pubDate>
+      
+      <guid>http://thingweb.io/news/2019-05-second-w3c-workshop-on-wot.html</guid>
+      <description>Second W3C Workshop on the Web of Things The Open Web to Challenge IoT Fragmentation 3-5 June 2019, Munich, Germany For more information, please consult the following website: https://www.w3.org/WoT/ws-2019/cfp.html
+Video on Youtube from Open Day</description>
+    </item>
+    
+  </channel>
+</rss>
